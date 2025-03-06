@@ -137,7 +137,7 @@ VoiceForge is an all-in-one platform for voice synthesis and deepfake detection.
 
 ### Installation
 
-bash
+```bash
 # Install from PyPI
 pip install voiceforge
 
@@ -145,17 +145,11 @@ pip install voiceforge
 git clone https://github.com/yourusername/voiceforge.git
 cd voiceforge
 pip install -e .
+```
 
 
 
-
-
-
-
-
-
-
-Then navigate to http://localhost:8080 in your browser.
+Then navigate to `http://localhost:8080` in your browser.
 
 ## 🔍 ASVspoof Detection Technology
 
