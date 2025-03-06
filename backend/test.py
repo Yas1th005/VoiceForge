@@ -21,8 +21,8 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 # API credentials
-USER_ID = "6kkNFid2p3hRAEE7iJkKIFLBCuz2"
-API_KEY = "b73c1078d0494464b78d1e49d12259b6"
+USER_ID = ""
+API_KEY = ""
 
 # Step 1: Clone a voice from an audio sample
 def clone_voice(sample_file_path, voice_name):
