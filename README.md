@@ -192,10 +192,3 @@ VoiceForge is designed for legitimate creative and security research purposes. U
 - Violate privacy or intellectual property rights
 
 We've integrated detection capabilities specifically to combat malicious use of voice cloning technology.
-
-## 📞 Contact
-
-- Website: [voiceforge.ai](https://voiceforge.ai)
-- Email: support@voiceforge.ai
-- Twitter: [@VoiceForgeAI](https://twitter.com/VoiceForgeAI)
-- GitHub Issues: [Report bugs](https://github.com/yourusername/voiceforge/issues)
