@@ -175,14 +175,6 @@ Our implementation achieves a 97.8% equal error rate (EER) on the ASVspoof 2019 
 
 
 
-## 🤝 Contributing
-
-Contributions are welcome! Please check out our [contribution guidelines](CONTRIBUTING.md).
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Ethical Use Notice
 
 VoiceForge is designed for legitimate creative and security research purposes. Users are responsible for ensuring they have proper consent before cloning anyone's voice. The tool should not be used to:
